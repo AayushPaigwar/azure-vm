@@ -1,0 +1,17 @@
+body {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.progress {
+    height: 25px;
+}
+
+.progress-bar {
+    line-height: 25px;
+    font-weight: bold;
+}
+
+table th {
+    width: 40%;
+}
