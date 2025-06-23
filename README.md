@@ -1,5 +1,7 @@
 # FastAPI VM Information Dashboard
 
+For Detailed Guide Refer: [Step by Step Guide](azure-vm-guide.md)
+
 This is a simple FastAPI application that displays information about the VM it's running on and exposes system information through a web interface and API.
 
 ## Installation
