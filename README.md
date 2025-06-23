@@ -63,3 +63,6 @@ To expose your VM to the internet, you need to ensure that:
 2. Consider adding authentication for sensitive endpoints
 3. Limit the information exposed in production environments
 4. Always keep your system and packages updated
+
+
+## Vercel Deploy Check from VM 🚀 
